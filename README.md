@@ -9,14 +9,23 @@ This version of the font also reorganizes the layout of the font, in hopes of im
 As with previous forks, new icons were created by tracing or recreating to icons seen throughout the rulebook and unit cards. My workflow included Adobe Illustrator and FontForge, which allowed for better accuracy and cleaner lines than FontForge alone seems to allow.
 
 Version 4.0:
+
 Updated in 2025/2026 to add new icons, including all factions, inverted upgrade icons, and additional icons that have been introduced to the game. Also reorganized to better group icons and improve ease of use.
+
  -Added faction icons for Republic, Separatists, and all Mercenaries.
+ 
  -Added upgrade icons for Squad Leader, Doctrine, and Programming.
+ 
  -Added icons for half range and Overrun.
+ 
  -Added icon for Range (as seen in the Weapons portion of unit cards, which is different from the existing Beyond Range 5 icon).
+ 
  -Added icons for Expend, Expend after action, and Exhaust (with a border).
+ 
  -Redrew some icons to improve appearance.
+ 
  -Created inverted upgrade icons with outlines (as seen on unit cards, vs the in-text style seen without an outline).
+ 
  -Reorganized layout to better group together icons, including inverted (card style) and non-inverted (in-text style) icons as lowercase and caps.
 
 Originally Copyright (c) 2018, Owen Appleton.
